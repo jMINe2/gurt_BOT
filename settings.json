@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "gurt_gurt.aternos.me:64110",
+    "ip": "gurt_gurt.aternos.me",
     "port": 64110,
     "version": "26.1.2",
     "try-creative": false
